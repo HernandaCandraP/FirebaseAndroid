@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FirebaseAndroid</string>
+
+    <array name="Kelas">
+        <item>TI - 3A</item>
+        <item>TI - 3B</item>
+        <item>TI - 3C</item>
+        <item>TI - 3D</item>
+        <item>TI - 3E</item>
+        <item>TI - 3F</item>
+        <item>TI - 3G</item>
+    </array>
+</resources>
